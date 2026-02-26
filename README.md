@@ -61,7 +61,7 @@ Braill'ie is an **all-surface braille reading device** that:
 |-----------|---------|
 | Raspberry Pi Pico | Main microcontroller |
 | MPU6050 | Accelerometer + Gyroscope (position tracking) |
-| GY-271 (QMC5883L) | Magnetometer/Compass (heading tracking) |
+| GY-271 (HMC5883L) | Magnetometer/Compass (heading tracking) |
 | 6x Voice Coil Actuators | Braille dot haptic feedback |
 | Jumper Wires + Breadboard | Connections |
 | Glove | Wearable base |
