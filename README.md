@@ -1,4 +1,4 @@
-# ✦ Braill'ie — Your Reading Assistant
+# ✦ Braill'ie (Brallie Reading Glove)
 
 <div align="center">
 
